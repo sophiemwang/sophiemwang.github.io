@@ -1,1 +1,2 @@
-# sophiemwang.github.io
+# CPSC 490 Submission
+#
