@@ -22,8 +22,8 @@
   </p>
 
   <ul>
-    <li><a href="#">Project Proposal</a></li>
-    <li><a href="#">Poster</a></li>
+    <li><a href="https://drive.google.com/file/d/1Mmexgba8TBzIDLU8Q-i_20P10SExZkkS/view?usp=sharing">Project Proposal</a></li>
+    <li><a href="https://drive.google.com/file/d/1JklxiLCaNR87ckHd-NEgbEzmMvdYvm7-/view?usp=sharing">Poster</a></li>
     <li><a href="#">Final Report</a></li>
     <li><a href="#">Github Repository</a></li>
   </ul>
