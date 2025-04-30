@@ -1,39 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>CPSC: 490</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-      background-color: #fff;
-      color: #111;
-    }
-    h1 {
-      font-size: 2em;
-    }
-    h2 {
-      font-size: 1.5em;
-      margin-top: 30px;
-    }
-    p {
-      line-height: 1.6;
-      max-width: 800px;
-    }
-    ul {
-      list-style-type: disc;
-      margin-top: 20px;
-    }
-    a {
-      color: #1a73e8;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
 <body>
 
   <h2>Beyond the Star Rating: Sentiment and Trend Analysis of Written Restaurant Reviews</h2>
