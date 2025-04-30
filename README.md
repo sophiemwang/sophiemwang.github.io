@@ -1,6 +1,6 @@
 # CPSC 490 Submission
-# Sophie Wang
-# Advisor: Stephen Slade
+Sophie Wang
+Advisor: Stephen Slade
 
 Abstract:
 This project investigates the intersection of professional food criticism and 
