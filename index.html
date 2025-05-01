@@ -42,19 +42,22 @@
 
   <h3>Abstract</h3>
   <p>
-    This project investigates the intersection of professional food criticism and 
-    public sentiment by analyzing all Yelp reviews across fifty New York City restaurants 
-    reviewed by New York Times (NYT) food critic Pete Wells. Using a custom Python 
-    pipeline and restaurant domain-specific sentiment classifier, it tracks Yelp review 
-    sentiment patterns over time. The study finds that Wells’ “fair” rating coincides with 
-    statistically significant drops in review volume, suggesting reduced diner engagement rather 
-    than heightened diner negative criticism. In contrast, further analysis across categories such 
-    as price range revealed no statistically significant sentiment shifts after Wells’ reviews. 
-    The project also introduces a web-based tool that visualizes the most frequently mentioned 
-    words in reviews, filtered by sentiment and time frame, revealing trends and shifts in consumer 
-    priorities. Results also show that the domain-specific sentiment model more accurately aligns 
-    with star ratings, underscoring the importance of tailored NLP tools. This methodology has 
-    broader applications in understanding how expert and crowd-sourced opinions interact across industries. 
+    This project investigates the intersection of professional food criticism and public sentiment by analyzing over 41,000 Yelp reviews across 
+    fifty New York City restaurants reviewed by New York Times food critic Pete Wells. A custom Python pipeline was developed to process and analyze 
+    sentiment in these reviews using a domain-specific sentiment classifier. This model, which builds upon the VADER framework and incorporates 
+    tailored lexicon implementations for restaurant-specific language, assigns each review a polarity score and sentiment label. The pipeline 
+    enables temporal comparisons of sentiment before and after the publication of Wells’ reviews, offering a unique lens into the potential 
+    influence of expert critique. The study's results find that Wells’ “fair” rating coincides with a statistically significant drop in Yelp 
+    review volume, suggesting reduced diner engagement rather than heightened diner negative criticism. However, across all other categories 
+    (the other rating types given by Wells, cuisine types, and pricing tiers), the impact of Wells’ reviews on review sentiment or volume was 
+    not statistically significant. Results also show that the domain-specific sentiment model more accurately aligns with star ratings, underscoring 
+    the importance of tailored NLP tools. In addition to sentiment tracking, this study introduces an interactive web-based tool that visualizes the 
+    most frequently mentioned words in reviews by sentiment and time frame. This tool can help businesses identify shifts in customer priorities, 
+    such as increased mentions of a particular dish or pricing, and compare language usage across time windows. It offers a practical and accessible 
+    way for restaurants to analyze evolving themes in customer feedback and adjust strategy accordingly. Overall, the methodology and findings have 
+    implications beyond restaurant critiques, offering a framework for analyzing the effects of professional opinion in any domain where crowd-sourced 
+    feedback can interact with expert reviews; the webpage reinforces this practical value, making sentiment insights actionable for both industry 
+    stakeholders and the broader public.
   </p>
 
   <ul>
